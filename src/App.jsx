@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p>Joke Generator</p>
+      <h1>Joke Generator</h1>
       <Joke/>
     </>
   )
